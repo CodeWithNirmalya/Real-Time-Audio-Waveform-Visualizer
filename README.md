@@ -54,8 +54,8 @@ python Audio-Visualization.py
 
 ## 📁 Project Structure:
 ### 📁 Real-Time-Audio-Waveform-Visualizer/
-├── Audio-Visualization.py                    # Main Python script
-├── README.md                    # Full project documentation
+├── Audio-Visualization.py  # Main Python script
+├── README.md  # Full project documentation
 
 
 ## 🧠 How It Works (Behind the Scenes)
