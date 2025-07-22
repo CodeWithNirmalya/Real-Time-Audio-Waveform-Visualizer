@@ -52,13 +52,13 @@ python Audio-Visualization.py
 ### 3.Select the input device
 
 
-# 📁 Project Structure:
+## 📁 Project Structure:
 ### 📁 Real-Time-Audio-Waveform-Visualizer/
 ├── Audio-Visualization.py                    # Main Python script
 ├── README.md                    # Full project documentation
 
 
-# 🧠 How It Works (Behind the Scenes)
+## 🧠 How It Works (Behind the Scenes)
 ▪️ PyAudio is used to stream audio input from your selected microphone.
 
 ▪️ Audio samples are captured in real-time and converted into numerical arrays using NumPy.
@@ -69,7 +69,7 @@ python Audio-Visualization.py
 
 
 
-# 🎯 Use Cases
+## 🎯 Use Cases
 ▪️ 🎧 Build a real-time visualizer for your music or podcast recording.
 
 ▪️ 📈 Demonstrate waveform properties in educational settings.
